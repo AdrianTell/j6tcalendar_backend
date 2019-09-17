@@ -1,0 +1,3 @@
+Visit the following link to confirm your Spathe PTO calendar email:
+
+{{ confirm_link }}

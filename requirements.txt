@@ -1,0 +1,12 @@
+django==2.1.8
+djangorestframework==3.9.4
+djangorestframework-simplejwt==4.3.0
+django-cors-headers==3.0.2
+drf-yasg==1.16.0
+packaging==19.0
+gunicorn==19.4.5
+whitenoise==3.3.1
+django-debug-toolbar==1.8
+psycopg2==2.7.3.1
+PyJWT==1.7.1
+cryptography==2.7
